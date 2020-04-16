@@ -14,4 +14,4 @@ class Student(models.Model):
 	dob = models.CharField(max_length=40)
 	university = models.CharField(max_length=40)
 	username = models.CharField(max_length=40)
-	password = models.CharField(max_length=40
+	password = models.CharField(max_length=40)
